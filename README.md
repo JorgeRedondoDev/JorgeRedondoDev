@@ -10,7 +10,6 @@ const Jorge = {
           Spanish: "native",
           English: "conversational"         
   }, 
- FavoriteAnimal: 🦦 ,
  ContactMe: {
           Linkedin: " https://www.linkedin.com/in/jorge-redondo-ortiz-876462202 ",
           Gmail: " jorgeredondoortiz@gmail.com " 
